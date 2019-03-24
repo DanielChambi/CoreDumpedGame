@@ -66,6 +66,9 @@
     <Compile Include="Assets\2D Platformer Controller\Scripts\Player.cs" />
     <Compile Include="Assets\2D Platformer Controller\Scripts\PlayerInput.cs" />
     <Compile Include="Assets\2D Platformer Controller\Scripts\RaycastController.cs" />
+    <Compile Include="Assets\GameController\ControllerUpdate.cs" />
+    <Compile Include="Assets\GameController\GlobalVarsInit.cs" />
+    <Compile Include="Assets\PauseMenu.cs" />
     <None Include="Assets\2D Platformer Controller\Readme.txt" />
     <None Include="Assets\2D Platformer Controller\LICENSE02.txt" />
     <None Include="Assets\2D Platformer Controller\LICENSE.txt" />
