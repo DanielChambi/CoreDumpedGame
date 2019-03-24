@@ -69,6 +69,7 @@
     <Compile Include="Assets\GameController\ControllerUpdate.cs" />
     <Compile Include="Assets\GameController\GlobalVarsInit.cs" />
     <Compile Include="Assets\PauseMenu.cs" />
+    <Compile Include="Assets\ScoreManager.cs" />
     <None Include="Assets\2D Platformer Controller\Readme.txt" />
     <None Include="Assets\2D Platformer Controller\LICENSE02.txt" />
     <None Include="Assets\2D Platformer Controller\LICENSE.txt" />
